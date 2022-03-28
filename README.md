@@ -1,6 +1,6 @@
 # What's this then?
 
-This is the 12th "lab" exercise assigned by a software development course I'm doing at the moment. The point of this one was to familiarise us with inheritance in Python.
+This is the 12th "lab" exercise assigned by a software development course I'm doing at the moment. The point of this one was to familiarise us with inheritance in Python. You can see the instructions we were given in `task.md`.
 
 # What does it actually do?
 
