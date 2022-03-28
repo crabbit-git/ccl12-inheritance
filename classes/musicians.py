@@ -35,6 +35,10 @@ phil = Drummer("Phil")
 
 phil.learn_instrument("vocals")
 
+print()
 print(steve.skillset())
+print()
 print(gab.skillset())
+print()
 print(phil.skillset())
+print()
