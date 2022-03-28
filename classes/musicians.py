@@ -10,7 +10,7 @@ class Musician:
     def skillset(self):
         if len(self.skills) == 2:
             return f"{self.name} can perform {self.skills[0]} and {self.skills[1]}."
-        elif len(self.skills) >2:
+        elif len(self.skills) > 2:
             return f"{self.name} is a multi-instrumentalist."
         return f"{self.name} can perform {self.skills[0]}."
 
